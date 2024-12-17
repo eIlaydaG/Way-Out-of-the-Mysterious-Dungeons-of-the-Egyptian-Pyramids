@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731606260 source:c:\users\İlaydag\desktop\test\ceng209\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1734272020 source:c:\users\İlaydag\onedrive\desktop\test\ceng209\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
